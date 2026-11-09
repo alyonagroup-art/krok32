@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Головна"},{"path":"/s/:id","title":"Предмет"},{"path":"/t/:id","title":"Тема"},{"path":"/review","title":"Повторення"},{"path":"/diagnostic","title":"Діагностика"},{"path":"/ref","title":"Довідник"},{"path":"/me","title":"Прогрес"}]}
